@@ -1,0 +1,59 @@
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+        <title>PS TV PLAY</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
+        <link rel="stylesheet" href="https://pscricketlink.github.io/Telegram/@ps_cricket_link/pscricketlinkapp.css">
+    </head>
+    <body>
+        
+        <style>
+            body {
+                margin: 0
+            }
+
+            .jwplayer {
+                position: absolute !important
+            }
+
+            .jwplayer.jw-flag-aspect-mode {
+                min-height: 100%;
+                max-height: 100%
+            }
+        </style>
+        <div id="player"></div>
+        <script src="https://content.jwplatform.com/libraries/KB5zFt7A.js"></script>
+        <script>
+            const playerInstance = jwplayer("player").setup({
+                controls: true,
+                sharing: false,
+                autostart: false,
+                mute: false,
+                abouttext: "Any Questions Contact",
+                aboutlink: "https://telegram.me/PS_CRICKET_LINK",
+                skin: {
+                    name: "netflix"
+                },
+                logo: {
+                    file: "#",
+                    link: "https://telegram.me/PS_CRICKET_LINK",
+                    hide: "false",
+                    position: "top-left",
+                },
+                playlist: [{
+                    image: "",
+                    sources: [{
+                        file: "https://linear032-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(sportsmix50)/manifest_hd.mpd",
+                        type: "dash",
+                        drm: {
+                            clearkey: {
+                                keyId: "0003a6c61c2b2f7f0a9d760ac83c06d8",
+                                key: "7305fa96d356316f2d544bfc78a6922c"
+                            }
+                        }
+                    }, ],
+                }, ],
+            });
+     </script>
