@@ -3,173 +3,173 @@
 {
        "name": "English4K",    
       
-    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_atv_avc_eng_ipl_s1_m1070424/master.m3u8"
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_atv_avc_eng_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "Hindi4K",    
       
-    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/uhd_akamai_atv_avc_hin_ipl_s1_m1070424/master.m3u8"
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/uhd_akamai_atv_avc_hin_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "Bhojpuri4K",    
 
-    "url": "https://prod-sports-north-gm.jiocinema.com/hls/live/2109761/uhd_akamai_atv_avc_bhoj_ipl_s1_m1070424/master.m3u8"
+    "url": "https://prod-sports-north-gm.jiocinema.com/hls/live/2109761/uhd_akamai_atv_avc_bhoj_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "Bengali4K",    
       
-    "url": "http://prod-sports-north-gm.jiocinema.com/hls/live/2109773/uhd_akamai_atv_avc_ben_ipl_s1_m1070424/master.m3u8"
+    "url": "http://prod-sports-north-gm.jiocinema.com/hls/live/2109773/uhd_akamai_atv_avc_ben_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "Punjabi4K",    
       
-    "url": "http://prod-sports-north-gm.jiocinema.com/hls/live/2109755/uhd_akamai_atv_avc_pun_ipl_s1_m1070424/master.m3u8"
+    "url": "http://prod-sports-north-gm.jiocinema.com/hls/live/2109755/uhd_akamai_atv_avc_pun_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "Kannada4K",    
       
-    "url": "https://prod-sports-south-gm.jiocinema.com/hls/live/2109723/uhd_akamai_atv_avc_kan_ipl_s1_m1070424/master.m3u8"
+    "url": "https://prod-sports-south-gm.jiocinema.com/hls/live/2109723/uhd_akamai_atv_avc_kan_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "Tamil4K",    
       
-    "url": "https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1070424/master.m3u8"
+    "url": "https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "Telugu4K",    
       
-      "url": "https://prod-sports-south-gm.jiocinema.com/hls/live/2109717/uhd_akamai_atv_avc_tel_ipl_s1_m1070424/master.m3u8"
+      "url": "https://prod-sports-south-gm.jiocinema.com/hls/live/2109717/uhd_akamai_atv_avc_tel_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "Marathi4K",    
       
-      "url": "https://prod-sports-north-gm.jiocinema.com/hls/live/2109767/uhd_akamai_atv_avc_mar_ipl_s1_m1070424/master.m3u8"
+      "url": "https://prod-sports-north-gm.jiocinema.com/hls/live/2109767/uhd_akamai_atv_avc_mar_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "Gujrati4K",    
       
-    "url": "https://prod-sports-north-gm.jiocinema.com/hls/live/2109749/uhd_akamai_atv_avc_guj_ipl_s1_m1070424/master.m3u8"
+    "url": "https://prod-sports-north-gm.jiocinema.com/hls/live/2109749/uhd_akamai_atv_avc_guj_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "Malayalam4K",    
       
-    "url": "https://prod-sports-south-gm.jiocinema.com/hls/live/2109705/uhd_akamai_atv_avc_mal_ipl_s1_m1070424/master.m3u8"
+    "url": "https://prod-sports-south-gm.jiocinema.com/hls/live/2109705/uhd_akamai_atv_avc_mal_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "Hindi_AdsFree",    
       
-    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1070424/master.m3u8"
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "English_AdsFree",    
       
-    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1070424/master.m3u8"
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "Bhojpuri_AdsFree",    
       
-    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099776/hd_akamai_iosmob_avc_bhoj_ipl_s1_m1070424/master.m3u8"
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099776/hd_akamai_iosmob_avc_bhoj_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "Bengali_AdsFree",    
       
-    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099769/hd_akamai_iosmob_avc_ben_ipl_s1_m1070424/master.m3u8"
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099769/hd_akamai_iosmob_avc_ben_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "Punjabi_AdsFree",    
       
-    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099781/hd_akamai_iosmob_avc_punj_ipl_s1_m1070424/master.m3u8"
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099781/hd_akamai_iosmob_avc_punj_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "Kannada_AdsFree",    
       
-    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099785/hd_akamai_iosmob_avc_kan_ipl_s1_m1070424/master.m3u8"
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099785/hd_akamai_iosmob_avc_kan_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "Tamil_AdsFree",    
       
-    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099792/hd_akamai_iosmob_avc_tam_ipl_s1_m1070424/master.m3u8"
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099792/hd_akamai_iosmob_avc_tam_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "Telugu_AdsFree",    
       
-    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099789/hd_akamai_iosmob_avc_tel_ipl_s1_m1070424/master.m3u8"
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099789/hd_akamai_iosmob_avc_tel_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "Marathi_AdsFree",    
       
-    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099774/hd_akamai_iosmob_avc_mar_ipl_s1_m1070424/master.m3u8"
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099774/hd_akamai_iosmob_avc_mar_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "Gujrati_AdsFree",    
       
-    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099782/hd_akamai_iosmob_avc_guj_ipl_s1_m1070424/master.m3u8"
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099782/hd_akamai_iosmob_avc_guj_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "Malyalam_AdsFree",    
       
-    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099795/hd_akamai_iosmob_avc_mal_ipl_s1_m1070424/master.m3u8"
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099795/hd_akamai_iosmob_avc_mal_ipl_s1_m1080424/master.m3u8"
            },
 {
        "name": "HeroCam1",    
       
-    "url": "https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109671/hd_akamai_iosmob_avc_cam04_ipl_s1_m1070424/master.m3u8"
+    "url": "https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109671/hd_akamai_iosmob_avc_cam04_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "ActionCam2",    
       
-    "url": "https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109674/hd_akamai_iosmob_avc_cam01_ipl_s1_m1070424/master.m3u8"
+    "url": "https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109674/hd_akamai_iosmob_avc_cam01_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "BatterCam3",    
       
-    "url": "https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2100297/hd_akamai_iosmob_avc_cam04_ipl_s1_m1070424/master.m3u8"
+    "url": "https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2100297/hd_akamai_iosmob_avc_cam04_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "BowlerCam4",    
       
-    "url": "https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2100297/hd_akamai_iosmob_avc_cam03_ipl_s1_m1070424/master.m3u8"
+    "url": "https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2100297/hd_akamai_iosmob_avc_cam03_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "StampCam5",    
       
-    "url": "https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109673/hd_akamai_iosmob_avc_cam02_ipl_s1_m1070424/master.m3u8"
+    "url": "https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109673/hd_akamai_iosmob_avc_cam02_ipl_s1_m1080424/master.m3u8"
            },
 
 {
        "name": "SpiderCam6",    
       
-    "url": "https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109672/hd_akamai_iosmob_avc_cam03_ipl_s1_m1070424/master.m3u8"
+    "url": "https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109672/hd_akamai_iosmob_avc_cam03_ipl_s1_m1080424/master.m3u8"
            },
 {
        "name": "MultiView",    
       
-    "url": "https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109670/hd_akamai_iosmob_avc_cam05_ipl_s1_m1070424/master.m3u8"
+    "url": "https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109670/hd_akamai_iosmob_avc_cam05_ipl_s1_m1080424/master.m3u8"
            }           
            
 ]
