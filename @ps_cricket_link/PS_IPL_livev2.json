@@ -1,154 +1,175 @@
 [
-    {
-      "name": "Hindi_AdsFree",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/0032a90f57224764b183281b210ff4df/master.m3u8"
-    },
-    {
-      "name": "English_AdsFree",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/272eae19c0fb4d50a8efa0261ed53cdd/master.m3u8"
-    },
-    {
-      "name": "Haryanvi_AdsFree",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/1472bd73a6094d0e9e30cdfd615225a2/master.m3u8"
-    },
-    {
-      "name": "Bhojpuri_AdsFree",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/a77d9c6804ab4f14abbaf4874d26c6f9/master.m3u8"
-    },
-    {
-      "name": "Gujarati_AdsFree",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/a700a944e65a4cab872a606916d994f8/master.m3u8"
-    },
-    {
-      "name": "Punjabi_AdsFree",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/bcc8f8d422bb4fdabe310a1e69056c04/master.m3u8"
-    },
-    {
-      "name": "Tamil_AdsFree",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/9fdb956e26594b7d90f3641cf16ad597/master.m3u8"
-    },
-    {
-      "name": "Telugu_AdsFree",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/96d74327e4714f49b78a82329a8ab414/master.m3u8"
-    },
-    {
-      "name": "Kannada_AdsFree",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/31ee83696bc04e449c76e3c2211ebc4b/master.m3u8"
-    },
-    {
-      "name": "Bengali_AdsFree",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/49bf9a5c837243c09d72043b7fa2a530/master.m3u8"
-    },
-    {
-      "name": "Malayalam_AdsFree",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/89a75f3be9f64596a4f33da70a1b604a/master.m3u8"
-    },
-    {
-      "name": "Marathi_AdsFree",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/eb5f992469d84cdc992ec94df7e590e1/master.m3u8"
-    },
-    {
-      "name": "Insiders_AdsFree",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/c14f6fb1985845f38650eac97f84b26c/master.m3u8"
-    },
-    {
-      "name": "Hangout_AdsFree",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/3533142cda074c078afc16bf1bc5c75b/master.m3u8"
-    },
-    {
-      "name": "HeroCam_AdsFree",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/a1469c70c34f4712982e6c895f05c913/master.m3u8"
-    },
-    {
-      "name": "BatterCam_AdsFree",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/933538ce86d04486b8fc3f949200d951/master.m3u8"
-    },
-    {
-      "name": "StumpCam_AdsFree",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/6b8480f7115444298d80daa3bc442c28/master.m3u8"
-    },
-    {
-      "name": "BirdsEyeCam_AdsFree",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/4eb7fa6d5c8342d298be3b6649e9cbe9/master.m3u8"
-    },
-    {
-      "name": "SplitCam_AdsFree",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/31657ca6ac464025ba5ceffa7ec48939/master.m3u8"
-    },
-    {
-      "name": "Hindi4K",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/81e640e5a2c74eb98201959a31a008a3/master.m3u8"
-    },
-    {
-      "name": "English4K",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/044ed31ae2974aadb03b5c5e9a67ab06/master.m3u8"
-    },
-    {
-      "name": "Haryanvi4K",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/c714425e406c4be486e914f4062a9810/master.m3u8"
-    },
-    {
-      "name": "Bhojpuri4K",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/84c3b9702e7a48659e79bf577bd8f497/master.m3u8"
-    },
-    {
-      "name": "Gujarati4K",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/581c6c71e5004210bca553832217dd73/master.m3u8"
-    },
-    {
-      "name": "Punjabi4K",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/f6c2ee7b4b984c38925752716ed62ed3/master.m3u8"
-    },
-    {
-      "name": "Tamil4K",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/41d6a16977e942e8ae41cba1ae182a69/master.m3u8"
-    },
-    {
-      "name": "Telugu4K",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/476d87131bcd4ccf97e554bbe5e5fed7/master.m3u8"
-    },
-    {
-      "name": "Kannada4K",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/b33f972cd1544a69963269d8fe70715c/master.m3u8"
-    },
-    {
-      "name": "Bengali4K",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/9035c52af31f45f7a14223f77b70d84d/master.m3u8"
-    },
-    {
-      "name": "Malayalam4K",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/604578267cfa4dab9a02700efac705ee/master.m3u8"
-    },
-    {
-      "name": "Marathi4K",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/e0874dd24f674a20b8554a10a244c6c1/master.m3u8"
-    },
-    {
-      "name": "ActionCam2",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/82d7c37dc9ba4ad3ab7966194bee1385/master.m3u8"
-    },
-    {
-      "name": "BowlerCam4",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/b03529f8c0154d29ac5a225d78c6d65a/master.m3u8"
-    },
-    {
-      "name": "HeroCam1",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/5a74ceb567cd49e6ba8b1ebf2fdfec69/master.m3u8"
-    },
-    {
-      "name": "BatterCam3",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/d7648a7014b34333a4074a6efafcb19f/master.m3u8"
-    },
-    {
-      "name": "StampCam5",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/b789111ea8854f8db2dc545541484f27/master.m3u8"
-    },
-    {
-      "name": "SpiderCam6",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/a491dee5aa0f4e29a197ef1c043a1084/master.m3u8"
-    },
-    {
-      "name": "MultiView",
-      "url": "https://prod-ent-live-gm.jiocinema.com/out/v1/1893486ccd08469e82b3fab606921c26/master.m3u8"
-    }
+
+{
+       "name": "English4K",    
+      
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_atv_avc_eng_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "Hindi4K",    
+      
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/uhd_akamai_atv_avc_hin_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "Bhojpuri4K",    
+
+    "url": "https://prod-sports-north-gm.jiocinema.com/hls/live/2109761/uhd_akamai_atv_avc_bhoj_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "Bengali4K",    
+      
+    "url": "http://prod-sports-north-gm.jiocinema.com/hls/live/2109773/uhd_akamai_atv_avc_ben_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "Punjabi4K",    
+      
+    "url": "http://prod-sports-north-gm.jiocinema.com/hls/live/2109755/uhd_akamai_atv_avc_pun_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "Kannada4K",    
+      
+    "url": "https://prod-sports-south-gm.jiocinema.com/hls/live/2109723/uhd_akamai_atv_avc_kan_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "Tamil4K",    
+      
+    "url": "https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "Telugu4K",    
+      
+      "url": "https://prod-sports-south-gm.jiocinema.com/hls/live/2109717/uhd_akamai_atv_avc_tel_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "Marathi4K",    
+      
+      "url": "https://prod-sports-north-gm.jiocinema.com/hls/live/2109767/uhd_akamai_atv_avc_mar_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "Gujrati4K",    
+      
+    "url": "https://prod-sports-north-gm.jiocinema.com/hls/live/2109749/uhd_akamai_atv_avc_guj_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "Malayalam4K",    
+      
+    "url": "https://prod-sports-south-gm.jiocinema.com/hls/live/2109705/uhd_akamai_atv_avc_mal_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "Hindi_AdsFree",    
+      
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "English_AdsFree",    
+      
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "Bhojpuri_AdsFree",    
+      
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099776/hd_akamai_iosmob_avc_bhoj_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "Bengali_AdsFree",    
+      
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099769/hd_akamai_iosmob_avc_ben_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "Punjabi_AdsFree",    
+      
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099781/hd_akamai_iosmob_avc_punj_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "Kannada_AdsFree",    
+      
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099785/hd_akamai_iosmob_avc_kan_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "Tamil_AdsFree",    
+      
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099792/hd_akamai_iosmob_avc_tam_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "Telugu_AdsFree",    
+      
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099789/hd_akamai_iosmob_avc_tel_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "Marathi_AdsFree",    
+      
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099774/hd_akamai_iosmob_avc_mar_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "Gujrati_AdsFree",    
+      
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099782/hd_akamai_iosmob_avc_guj_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "Malyalam_AdsFree",    
+      
+    "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099795/hd_akamai_iosmob_avc_mal_ipl_s1_m1110424/master.m3u8"
+           },
+{
+       "name": "HeroCam1",    
+      
+    "url": "https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109671/hd_akamai_iosmob_avc_cam04_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "ActionCam2",    
+      
+    "url": "https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109674/hd_akamai_iosmob_avc_cam01_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "BatterCam3",    
+      
+    "url": "https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2100297/hd_akamai_iosmob_avc_cam04_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "BowlerCam4",    
+      
+    "url": "https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2100297/hd_akamai_iosmob_avc_cam03_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "StampCam5",    
+      
+    "url": "https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109673/hd_akamai_iosmob_avc_cam02_ipl_s1_m1110424/master.m3u8"
+           },
+
+{
+       "name": "SpiderCam6",    
+      
+    "url": "https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109672/hd_akamai_iosmob_avc_cam03_ipl_s1_m1110424/master.m3u8"
+           },
+{
+       "name": "MultiView",    
+      
+    "url": "https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109670/hd_akamai_iosmob_avc_cam05_ipl_s1_m1110424/master.m3u8"
+           }           
+           
 ]
